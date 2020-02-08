@@ -1,24 +1,5 @@
-# README
+A to do list application with a fluid user interface built using advanced JavaScript concepts. JavaScript, jQuery, AJAX, JSON, AWS, Bootstrap, Carrierwave, Devise, SimpleForm, RSpec, HTML5, and CSS3.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://mytodo-alper-duru.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1280" alt="Screen Shot 2020-02-07 at 10 23 27 PM" src="https://user-images.githubusercontent.com/43013844/74079114-80cf2e80-49f8-11ea-8682-20322ce47692.png">
